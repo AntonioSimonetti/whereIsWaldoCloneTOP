@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/whereIsWaldoCloneTOP/static/css/main.2c810804.css",
+    "main.js": "/whereIsWaldoCloneTOP/static/js/main.7d5d2104.js",
+    "static/js/787.480d99ec.chunk.js": "/whereIsWaldoCloneTOP/static/js/787.480d99ec.chunk.js",
+    "static/media/pokemonGame.png": "/whereIsWaldoCloneTOP/static/media/pokemonGame.1e37b7df082d0631e167.png",
+    "static/media/anonymous2.svg": "/whereIsWaldoCloneTOP/static/media/anonymous2.812ef1e762ada62d769ec9bf6affd38c.svg",
+    "index.html": "/whereIsWaldoCloneTOP/index.html",
+    "main.2c810804.css.map": "/whereIsWaldoCloneTOP/static/css/main.2c810804.css.map",
+    "main.7d5d2104.js.map": "/whereIsWaldoCloneTOP/static/js/main.7d5d2104.js.map",
+    "787.480d99ec.chunk.js.map": "/whereIsWaldoCloneTOP/static/js/787.480d99ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c810804.css",
+    "static/js/main.7d5d2104.js"
+  ]
+}
